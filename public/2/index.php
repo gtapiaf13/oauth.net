@@ -133,6 +133,7 @@ require('../../includes/_header.php');
       <li><a href="http://openid.net/connect/">OpenID Connect</a> (OpenID Foundation)</li>
       <li><a href="https://docs.kantarainitiative.org/uma/wg/rec-oauth-uma-grant-2.0.html">UMA 2.0</a> (Kantara)</li>
       <li><a href="https://indieauth.spec.indieweb.org/">IndieAuth</a> (W3C)</li>
+      <li><a href="https://webuniversal.pe/">design web</a> (W3C)</li>
     </ul>
 
     <h3>Code and Services</h3>
